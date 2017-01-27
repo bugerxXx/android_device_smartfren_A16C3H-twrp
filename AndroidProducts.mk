@@ -14,5 +14,5 @@
 # limitations under the License.
 
 PRODUCT_MAKEFILES := \
-	$(LOCAL_DIR)/omni_wt86518.mk \
-	$(LOCAL_DIR)/full_wt86518.mk
+	$(LOCAL_DIR)/omni_A16C3H.mk \
+	$(LOCAL_DIR)/full_A16C3H.mk
